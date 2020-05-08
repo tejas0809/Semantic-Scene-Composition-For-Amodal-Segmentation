@@ -6,6 +6,20 @@
  
  ## File Structure and description of each file
  
+ ### datasets.py
+ ### inference.py
+ ### inference_522.py
+ ### inference_baseline.py
+ ### models.py
+ ### models_baseline.py
+ ### spectral_normalization.py
+ ### train.py
+ ### train_baseline.py
+ ### vis_tools.py
+ 
+ 
+ 
+ 
  
  
  
