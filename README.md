@@ -12,14 +12,13 @@ and train.py.
 
  ### datasets.py
  Contains all the dataloader code to load data from our input dataset
- ### inference.py
- ### inference_522.py
- ### inference_baseline.py
+ ### inference.py, inference_baseline.py
  
  used to generate the results of our trained network, you can load weights and results can be saved using the inference files, each for our main model and our DL based baseline.
  
  ### models.py
  ### models_baseline.py
+ respectively contain the dataset class for each of our implementations of DL baseline and main approach
  ### spectral_normalization.py
  is a pre-design layer for our discriminator, basically what this file does is adding a more stable strategy to implement convolution layers.
  ### train.py
@@ -28,19 +27,5 @@ and train.py.
  
  ### vis_tools.py
  contains the functions to visualize results in visdom
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  ## Instructions to run the code
