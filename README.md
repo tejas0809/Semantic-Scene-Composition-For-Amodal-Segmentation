@@ -29,3 +29,4 @@ and train.py.
  contains the functions to visualize results in visdom
  
  ## Instructions to run the code
+Instructions to run the code are inlcuded in the attached pdf file. 
